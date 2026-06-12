@@ -1,3 +1,8 @@
+> **InHive vendored fork.** Patched dependency of [InHive Core](https://github.com/TwilgateLabs/inhive-core).
+> Upstream: [tailscale/tailscale](https://github.com/tailscale/tailscale). We track upstream and carry InHive-specific patches.
+
+---
+
 # Tailscale
 
 https://tailscale.com
